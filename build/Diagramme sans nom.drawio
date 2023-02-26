@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T04:33:22.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.23" etag="bQ6PWfiIWCOAatRNUz8P" type="github"><diagram name="Page-1" id="17bX_OOQY5vsL-ccGn_X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-26T16:00:01.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mx9Ss0rVr5bKPMfInn6T" version="20.8.23" type="github">
+  <diagram name="Page-1" id="17bX_OOQY5vsL-ccGn_X">
+    <mxGraphModel dx="880" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Csp81-nhSLrjmD1nM1c8-1" target="Csp81-nhSLrjmD1nM1c8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-1" value="start&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Csp81-nhSLrjmD1nM1c8-2" target="Csp81-nhSLrjmD1nM1c8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-2" value="sum=0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Csp81-nhSLrjmD1nM1c8-8" target="Csp81-nhSLrjmD1nM1c8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-8" value="input: n" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="315" y="220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Csp81-nhSLrjmD1nM1c8-13" target="Csp81-nhSLrjmD1nM1c8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-13" value="sum of squares= sum+n*n" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Csp81-nhSLrjmD1nM1c8-15" value="end&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
